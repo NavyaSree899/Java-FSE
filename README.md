@@ -1,0 +1,1 @@
+This repository contains solutions to the Java, sql and HTML tasks assigned as part of the Cognizant Nurture Program through Superset. All answers have been completed as per the instructions provided, and the content is structured for clarity and ease of access.
